@@ -7,4 +7,4 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 
 
 # Description
-This repository contains a tableau project (PRODIGY_DS_04.twb) and the dataset used for conducting the visualisations (synthetic_population_data_updated.csv).
+This repository contains a tableau project (PRODIGY_DS_04.twb) and the dataset used for conducting the visualisations (cleaned_twitter_sentiment.csv).
