@@ -4,3 +4,7 @@ The attached file is my third task as an intern with "Prodigy InfoTech". The tas
 
 # Task Overview
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+
+
+# Description
+This repository contains a tableau project (PRODIGY_DS_04.twb) and the dataset used for conducting the visualisations (synthetic_population_data_updated.csv).
